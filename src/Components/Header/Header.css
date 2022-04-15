@@ -1,0 +1,16 @@
+.navbar {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.navbar nav a {
+  text-decoration: none;
+  font-size: large;
+  color: brown;
+  margin-right: 20px;
+}
+.navbar nav a:hover {
+  background-color: brown;
+  color: white;
+  padding: 7px;
+}
